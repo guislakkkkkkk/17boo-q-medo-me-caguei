@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				128500,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"johndoeevil"
+					]
+				]
+			],
+			[
+				128583.333333333,
+				[
+					[
+						"Play Animation",
+						"kill",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}
