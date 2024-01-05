@@ -1,0 +1,4 @@
+faster fade
+
+Vlaue 1: true/false
+Value 2: idk
