@@ -84,7 +84,7 @@ class CreditsState extends MusicBeatState
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool121', 'FFFFFF'],
 			[''],
-			['Cara q fez o port lol'],
+			['Cara q fez o port e a otimização lol'],
             ['Guislakkkk',    'gui',                'a',                    'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ',     'FE0015'],
             [''],
 			['Psych Engine Team'],
