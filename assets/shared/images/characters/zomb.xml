@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zomb.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="aliendown0000" x="10" y="10" width="556" height="545"/>
+	<SubTexture name="aliendown0001" x="10" y="10" width="556" height="545"/>
+	<SubTexture name="aliendown0002" x="596" y="10" width="556" height="545"/>
+	<SubTexture name="aliendown0003" x="596" y="10" width="556" height="545"/>
+	<SubTexture name="alienidle0000" x="1182" y="10" width="397" height="587"/>
+	<SubTexture name="alienidle0001" x="1182" y="10" width="397" height="587"/>
+	<SubTexture name="alienidle0002" x="1609" y="10" width="397" height="587"/>
+	<SubTexture name="alienidle0003" x="1609" y="10" width="397" height="587"/>
+	<SubTexture name="alienleft0000" x="10" y="627" width="443" height="578"/>
+	<SubTexture name="alienleft0001" x="10" y="627" width="443" height="578"/>
+	<SubTexture name="alienleft0002" x="483" y="627" width="443" height="578"/>
+	<SubTexture name="alienleft0003" x="483" y="627" width="443" height="578"/>
+	<SubTexture name="alienright0000" x="956" y="627" width="454" height="591"/>
+	<SubTexture name="alienright0001" x="956" y="627" width="454" height="591"/>
+	<SubTexture name="alienright0002" x="1440" y="627" width="454" height="591"/>
+	<SubTexture name="alienright0003" x="1440" y="627" width="454" height="591"/>
+	<SubTexture name="alienup0000" x="10" y="1248" width="419" height="665"/>
+	<SubTexture name="alienup0001" x="10" y="1248" width="419" height="665"/>
+	<SubTexture name="alienup0002" x="459" y="1248" width="419" height="665"/>
+	<SubTexture name="alienup0003" x="459" y="1248" width="419" height="665"/>
+</TextureAtlas>

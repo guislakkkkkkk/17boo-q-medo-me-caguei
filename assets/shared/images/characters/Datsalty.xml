@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Datsalty.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Datsalty instance 10000" x="0" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10001" x="0" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10002" x="386" y="0" width="296" height="525" frameX="0" frameY="0" frameWidth="381" frameHeight="526"/>
+	<SubTexture name="Datsalty instance 10003" x="386" y="0" width="296" height="525" frameX="0" frameY="0" frameWidth="381" frameHeight="526"/>
+	<SubTexture name="Datsalty instance 10004" x="687" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10005" x="687" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10006" x="1073" y="0" width="296" height="525" frameX="0" frameY="0" frameWidth="381" frameHeight="526"/>
+	<SubTexture name="Datsalty instance 10007" x="1073" y="0" width="296" height="525" frameX="0" frameY="0" frameWidth="381" frameHeight="526"/>
+	<SubTexture name="Datsalty instance 10008" x="687" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10009" x="687" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10010" x="1073" y="0" width="296" height="525" frameX="0" frameY="0" frameWidth="381" frameHeight="526"/>
+	<SubTexture name="Datsalty instance 10011" x="1073" y="0" width="296" height="525" frameX="0" frameY="0" frameWidth="381" frameHeight="526"/>
+	<SubTexture name="Datsalty instance 10012" x="687" y="0" width="381" height="526"/>
+	<SubTexture name="Datsalty instance 10013" x="687" y="0" width="381" height="526"/>
+</TextureAtlas>

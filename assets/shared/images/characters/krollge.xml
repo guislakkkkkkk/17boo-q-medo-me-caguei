@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="krollge.png">
+<SubTexture name="krollge idle0000" x="0" y="578" width="329" height="523" frameX="-1127" frameY="-449" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge down0000" x="1472" y="0" width="308" height="489" frameX="-1147" frameY="-476" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge down0001" x="1114" y="578" width="310" height="493" frameX="-1145" frameY="-474" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge up0000" x="0" y="0" width="301" height="578" frameX="-1143" frameY="-387" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge up0001" x="301" y="0" width="307" height="553" frameX="-1136" frameY="-409" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge right0000" x="608" y="0" width="439" height="542" frameX="-1125" frameY="-434" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge right0001" x="1047" y="0" width="425" height="531" frameX="-1120" frameY="-442" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge left0000" x="710" y="578" width="404" height="513" frameX="-1050" frameY="-458" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="krollge left0001" x="329" y="578" width="381" height="514" frameX="-1071" frameY="-460" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
