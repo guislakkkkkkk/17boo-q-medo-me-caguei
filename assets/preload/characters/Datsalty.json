@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "johnup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "johndown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "johnleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				29
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "johntransiiton",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "john2up"
+		},
+		{
+			"offsets": [
+				-60,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "john2right"
+		},
+		{
+			"offsets": [
+				140,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "john2left"
+		},
+		{
+			"offsets": [
+				130,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "john2down"
+		},
+		{
+			"offsets": [
+				-23,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "johnright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Datsalty"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Datsalty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jon",
+	"flip_x": true,
+	"healthbar_colors": [
+		218,
+		234,
+		148
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

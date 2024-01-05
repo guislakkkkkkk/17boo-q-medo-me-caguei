@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": false,
+			"name": "oliver idle"
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "oliver up"
+		},
+		{
+			"offsets": [
+				84,
+				11
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "oliver left"
+		},
+		{
+			"offsets": [
+				-10,
+				10
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "oliver down"
+		},
+		{
+			"offsets": [
+				-70,
+				10
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "oliver right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oliver",
+	"position": [
+		80,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		120,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

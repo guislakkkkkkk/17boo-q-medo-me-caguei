@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				20,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				48,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "HEADZO"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Headzo",
+	"position": [
+		150,
+		190
+	],
+	"healthicon": "666",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

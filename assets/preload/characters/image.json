@@ -1,0 +1,213 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "image up"
+		},
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "image right"
+		},
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "image down"
+		},
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "image left"
+		},
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "image idle"
+		},
+		{
+			"offsets": [
+				310,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "image up-alt"
+		},
+		{
+			"offsets": [
+				300,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "image down-alt"
+		},
+		{
+			"offsets": [
+				300,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "image left-alt"
+		},
+		{
+			"offsets": [
+				301,
+				160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "image idle-alt"
+		},
+		{
+			"offsets": [
+				311,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "image right-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/image",
+	"position": [
+		320,
+		550
+	],
+	"healthicon": "wat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		15
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}
