@@ -1,0 +1,6 @@
+funny text for big laf
+
+value 1: text lol
+value 2: wiz speakin (purple, green, or yellow)
+
+leave value 1 empty if you want the text to go away

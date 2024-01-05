@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				81,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				94,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				150,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				406,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "anim",
+			"fps": 24,
+			"name": "anim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "anim2",
+			"fps": 24,
+			"name": "anim2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"anim": "anim3",
+			"fps": 24,
+			"name": "anim3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rick_prime_assets",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "prime",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		158,
+		255
+	],
+	"camera_position": [
+		-160,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
