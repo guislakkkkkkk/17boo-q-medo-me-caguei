@@ -20,8 +20,8 @@ local beat_events = {
 }
 
 function onCreatePost()
-	setObjectOrder("boyfriendGroup", getObjectOrder("char_RBLXCYC") + 1)
-	setObjectOrder("char_krollge", getObjectOrder("boyfriendGroup") + 1)
+	setObjectOrder("char_RBLXCYC") + 1)
+	setObjectOrder("char_krollge") + 1)
 	setObjectOrder("char_zomb", getObjectOrder("char_krollge") + 1)
 end
 
