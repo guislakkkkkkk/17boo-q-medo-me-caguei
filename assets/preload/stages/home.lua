@@ -87,22 +87,6 @@ function onCreatePost()
 			setPropertyFromGroup('playerStrums', 1, 'x', 530);
 			setPropertyFromGroup('playerStrums', 2, 'x', 640);
 			setPropertyFromGroup('playerStrums', 3, 'x', 750);
-	end
-
-	if shadersEnabled then
-		initLuaShader('bloom')
-		makeLuaSprite("shader1")
-		makeGraphic("shader1", screenWidth, screenHeight)
-		setSpriteShader("shader1", 'bloom')
-
-    	addHaxeLibrary("ShaderFilter", "openfl.filters")
-		runHaxeCode([[
-			var game = PlayState.instance;
-			game.camGame.setFilters([
-			new ShaderFilter(game.getLuaObject("shader1").shader)
-			]);
-		]])
-	end
 end
 
 
@@ -137,15 +121,9 @@ function onCountdownStarted()
 	end
 end
 
-function onBeatHit()
-	if curBeat == 592 then
-		removeLuaSprite('vignette', true)
-
 		makeLuaSprite('dead','home/empty',0,0)
 		addLuaSprite('dead',true)
 		setScrollFactor('dead',0,0)
 		setObjectCamera('dead','other')
 		screenCenter('dead')
 	end
-end
-
