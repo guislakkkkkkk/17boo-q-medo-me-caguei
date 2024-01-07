@@ -19,12 +19,6 @@ local beat_events = {
 	end
 }
 
-function onCreatePost()
-	setObjectOrder("char_RBLXCYC") + 1)
-	setObjectOrder("char_krollge") + 1)
-	setObjectOrder("char_zomb", getObjectOrder("char_krollge") + 1)
-end
-
 function onBeatHit()
 	if beat_events[curBeat] then
 		beat_events[curBeat]()
