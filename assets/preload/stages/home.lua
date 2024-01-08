@@ -52,11 +52,6 @@ function onCreatePost()
 	setProperty('light.alpha',0.2)
 	
 	
-	doTweenAngle('tripAng10','bg',10,6,'sineInOut')
-	doTweenY('tripDown','bg',bgYdef+bgYmove,10.5,'quadInOut')
-	doTweenY('tripMore','bg.scale',bgYscaleDef+bgYscaleAdd,7,'quadInOut')
-	
-	
 	setProperty('dad.skipDance', true)
 	setTextString("botplayTxt", " ")
 	setProperty('timeBar.visible', false)
