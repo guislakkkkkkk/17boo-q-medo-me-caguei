@@ -3,7 +3,6 @@ local bgYmove = 200
 local bgYscaleDef = 10.81
 local bgYscaleAdd = 1.5
 
-local shaderName = "bloom"
 
 local oppNotes = false
 local middle = false
@@ -89,28 +88,6 @@ function onCreatePost()
 			setPropertyFromGroup('playerStrums', 3, 'x', 750);
 end
 
-
-function onTweenCompleted(tag)
-	-- A tween you called has been completed, value "tag" is it's tag
-	if tag == 'tripAng10' then
-		doTweenAngle('tripAng-10','bg',-10,6,'sineInOut')
-	end
-	if tag == 'tripAng-10' then
-		doTweenAngle('tripAng10','bg',10,6,'sineInOut')
-	end
-	if tag == 'tripDown' then
-		doTweenY('tripUp','bg',bgYdef-bgYmove,4,'quadInOut')
-	end
-	if tag == 'tripUp' then
-		doTweenY('tripDown','bg',bgYdef+bgYmove,4.5,'quadInOut')
-	end
-	if tag == 'tripMore' then
-		doTweenY('tripLess','bg.scale',bgYscaleDef-bgYscaleAdd,7,'quadInOut')
-	end
-	if tag == 'tripLess' then
-		doTweenY('tripMore','bg.scale',bgYscaleDef+bgYscaleAdd,7,'quadInOut')
-	end
-end
 
 function onCountdownStarted()
 	if oppNotes == false then
