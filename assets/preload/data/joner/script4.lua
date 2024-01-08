@@ -4,9 +4,9 @@
 
 -- simply, offsets. they're the numbers in the top left of the character editor
 idleOffsets = {'0', '0'}        -- I recommend you have your idle offset at 0
-leftOffsets = {'72', '284'}
+leftOffsets = {'0', '0'}
 downOffsets = {'80', '-51'}
-upOffsets = {'40', '-6'}
+upOffsets = {'65', '275'}
 rightOffsets = {'-20', '-45'}
 
 leftMissOffsets = {'0', '0'}    -- use as required
